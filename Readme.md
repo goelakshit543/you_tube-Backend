@@ -1,0 +1,3 @@
+# youtube Backend
+backend for yt in js 
+model link ->> https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbnBZZERJSE11WVd1NWpDdDI1LU9NWnVwb21PUXxBQ3Jtc0trZ0YzX21Id2RhTmNhV1NId2tjTHpRd2lSblpjUnppVVJudWRlbmJfQW5TRm5LcUF3Q1htLXJ6QnQyaEVNNWgxbV9KOHpVWUZBcUJkZ0l3SkZncTlEdnBmV2F4SUVaZFYzSmsxLW1HRnJBa0VoNWVKSQ&q=https%3A%2F%2Fapp.eraser.io%2Fworkspace%2FYtPqZ1VogxGy1jzIDkzj%3Forigin%3Dshare&v=9B4CvtzXRpc
